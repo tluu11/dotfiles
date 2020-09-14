@@ -6,5 +6,6 @@ alias l='ls -CF'
 alias c='clear'
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias 61a='cd $HOME/UCBerkeley/CS61A'
 
 
