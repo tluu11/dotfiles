@@ -186,6 +186,9 @@ font:
   #cursor:
   #  text: CellBackground
   #  cursor: CellForeground
+  # custom_cursor_colors: true
+  #  text: '0x20201d'
+  #  cursor: '0x1fad83'
 
   # Vi mode cursor colors
   #
@@ -196,7 +199,7 @@ font:
   #vi_mode_cursor:
   #  text: CellBackground
   #  cursor: CellForeground
-
+  #
   # Selection colors
   #
   # Colors which should be used to draw the selection area.
